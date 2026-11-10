@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Korus-Dev/korus/main/assets/mission-screenshot.png" alt="Korus Mission workspace" width="960" />
+  <img src="https://raw.githubusercontent.com/Korus-Dev/.github/main/profile/images/workspace.png" alt="Agents grouped by repository, with a conversation and review status" width="32%" />
+  <img src="https://raw.githubusercontent.com/Korus-Dev/.github/main/profile/images/mission.png" alt="A mission with staged workflow, tickets across repositories, and a live agent conversation" width="32%" />
+  <img src="https://raw.githubusercontent.com/Korus-Dev/.github/main/profile/images/design.png" alt="Three layout options for a checkout page, side by side" width="32%" />
 </p>
 
 Korus brings Codex, Claude, Cursor, and Antigravity into one workspace. Run one agent on its own, or a mixed team with a conversation for each.
